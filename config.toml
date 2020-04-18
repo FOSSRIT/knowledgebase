@@ -54,7 +54,7 @@ hasChildren = true
 
 ############################# Default parameters ##########################
 [params]
-logo = "static/images/rit.png"
+logo = "images/rit.png"
 
 # customize color
 primary_color = "#F76902"
